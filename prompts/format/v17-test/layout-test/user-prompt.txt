@@ -1,0 +1,28 @@
+## PRESENTATION CONTEXT INFO:
+<slideCount>%d</slideCount>
+
+<audience>%s</audience>
+
+<tone>%s</tone>
+
+<outline>
+%s
+</outline>
+
+<extra_note>
+%s
+</extra_note>
+
+<document>
+%s
+</document>
+
+-------
+## TEMPLATE LAYOUT INFO:
+```
+%s
+```
+
+-------
+## OUTPUT:
+(starting from the '<json>\n')

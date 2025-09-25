@@ -1,0 +1,18 @@
+## INPUTS:
+
+<user_text>
+%s
+</user_text>
+
+<audience>%s</audience>
+
+<tone>%s</tone>
+
+<output_languag>%s</output_languag>
+
+<template_list>
+%s
+</template_list>
+
+## OUTPUT:
+(Starting from <json> tag)

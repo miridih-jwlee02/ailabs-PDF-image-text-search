@@ -1,0 +1,11 @@
+CONTEXT:
+<topic>
+%s
+</topic>
+
+<outline>
+%s
+</outline>
+
+# OUTPUT:
+(starting from the <json> tag.)

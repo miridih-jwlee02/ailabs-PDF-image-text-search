@@ -1,0 +1,29 @@
+**Pay attention to the JSON format. Ensure that the JSON structure remains intact.**
+Sometimes, you forget to include the closing curly brace ("}") at the end of JSON output. Please be mindful of this.
+
+Please check the language I entered and write the outline in that language!
+
+## PRESENTATION CONTEXT INFO:
+<slideCount>%s</slideCount>
+
+<audience>%s</audience>
+
+<tone>%s</tone>
+
+<extra_note>
+%s
+</extra_note>
+
+<requested_context>
+%s
+</requested_context>
+
+-------
+## REFERENCE CONTENTS:
+<reference>
+%s
+</reference>
+
+-------
+## OUTPUT:
+(starting from the '<json>\n'. Double-check that the final closing braces consist of exactly three ("}}}").)

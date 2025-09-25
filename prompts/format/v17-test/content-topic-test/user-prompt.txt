@@ -1,0 +1,52 @@
+request: When creating content for image frames, do not include images with infographics, graphs, tables, or charts.
+<WARNING> For text boxes with the role of **main title, main topic title, or sub topic title**, do not use line breaks and write the content in a single line.
+  - For example, instead of writing "Climate Change and\nThe Reality of Global Warming," write it as "Climate Change and The Reality of Global Warming."!
+  - You are not required to fill all available lines in a text box. Write only as many lines as necessary to clearly convey the content.
+
+**<IMPORTANT> Double quotes within JSON strings must be escaped as \". If this is difficult, please replace them with single quotes ('').**
+
+## PRESENTATION CONTEXT INFO:
+<slideCount>%d</slideCount>
+
+<audience>%s</audience>
+
+<tone>%s</tone>
+
+<outline> // Please use the content written on <1page> of the <outline> as it is, as much as possible, in the title text box of the presentation title slide.
+%s
+</outline>
+
+<extra_note>
+%s
+</extra_note>
+
+<requested_context>
+%s
+</requested_context>
+
+
+
+-------
+## LAYOUT INFO:
+```
+%s
+```
+
+-------
+## REFERENCE CONTENTS:
+<reference>
+%s
+</reference>
+
+-------
+## OUTPUT:
+- When writing the content of a description text box for a topic, always use bullet points("- Contents\n") or numbering("1. Contents\n") at the beginning of sentences to ensure clarity and readability.
+- Do not fill the text box to the maximum number of lines.
+**Critical - quote escaping**
+(starting from the '<json>\n')
+
+
+When summarizing information or creating content for slides, **appropriately mix complete sentence forms with concise summary-style expressions depending on the situation**.  
+Considering the layout, visual composition, and flow of content, **do not compose everything using only complete sentence forms**-when appropriate, **actively use concise statements or summarized bullet-style expressions** as well.
+
+Write content only for the pages I have requested, not for the entire document. Do not create content for any pages other than those I specified. For example, if I request pages 1 through 6 in the LAYOUT INFO, you must produce content solely for pages 1 – 6.

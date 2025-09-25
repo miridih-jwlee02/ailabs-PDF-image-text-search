@@ -1,0 +1,571 @@
+## 의학석사학위 청구논문
+
+원형탈모증 동물모델 및 환자에서 308nm 엑시머레이저의 치료 효과
+
+Therapeutic Effect of 308nm Excimer Laser on Alopecia Areata in Animal Model and Patient
+
+인하대학교 대학원 의학과 (피부과학 전공) 방 찬 일
+
+## 의학석사학위 청구논문
+
+원형탈모증 동물모델 및 환자에서 308nm 엑시머레이저의 치료 효과
+
+Therapeutic Effect of 308nm Excimer Laser on Alopecia Areata in Animal Model and Patient
+
+지도교수 최 광 성
+
+이 논문을 석사학위 논문으로 제출함
+
+인하대학교 대학원 의학과 (피부과학 전공) 방 찬 일
+
+주심
+
+부심
+
+위원
+
+## 이 논문을 방찬일의 석사학위논문으로 인정함
+
+## 2013 년 4 월
+
+## 목 차
+
+4
+
+7
+
+9
+
+27
+
+37
+
+| 그림   | 목차       | ․   | ․   | ․        | ․ ․   | ․    | ․   | ․    | ․   | ․   | ․   | ․   | ․   | ․ ․   | ․   | ․   | ․   | ․   | ․   | ․   | ․   | ․ ․   | ․ ․ 2   |
+|--------|------------|-----|-----|----------|-------|------|-----|------|-----|-----|-----|-----|-----|-------|-----|-----|-----|-----|-----|-----|-----|-------|---------|
+| 표     | 목차 ․     | ․   | ․   | ․        | ․ ․   | ․    | ․   | ․    | ․   | ․   | ․   | ․   | ․ ․ | ․     | ․ ․ | ․   | ․   | ․   | ․   | ․ ․ | ․   | ․     | ․ 3     |
+| 국문   | 요약       | ․   | ․   | ․ ․      | ․     | ․    | ․   | ․    | ․   | ․   | ․   | ․   | ․ ․ | ․     | ․ ․ | ․   | ․   | ․   | ․   | ․ ․ | ․   | ․     | ․ ․ 4   |
+| 영문   | 요약       | ․   | ․   | ․ ․      | ․     | ․    | ․   | ․    | ․   | ․   | ․   | ․ ․ | ․   | ․     | ․ ․ | ․   | ․   | ․   | ․   | ․ ․ | ․   | ․     | ․ ․ 7   |
+| I.     | 서론       | ․   | ․   | ․ ․      | ․     | ․    | ․   | ․    | ․   | ․   | ․   | ․ ․ | ․   | ․ ․   | ․   | ․ ․ | ․   |     | ․   | ․   | ․   | ․ ․   | ․ ․     |
+| II.    | 원형탈모증 |     |     | 동물모델 |       |      |     | 실험 | ․   | ․   | ․   | ․   | ․   | ․ ․   | ․ ․ | ․   | ․   | ․   | ․   | ․   | ․   | ․ ․   | 12      |
+| III.   | 원형탈모증 |     |     | 환자     |       | 임상 |     | 시험 |     |     | ․   | ․   | ․ ․ | ․     | ․ ․ | ․ ․ |     | ․   | ․   | ․   | ․ ․ | ․     | ․ 27    |
+| IV.    | 고찰       | ․   | ․   | ․        | ․ ․   | ․    | ․   | ․    | ․   | ․   | ․   | ․ ․ | ․   | ․ ․   | ․ ․ | ․   | ․   |     | ․   | ․ ․ | ․   | ․     | ․ 37    |
+| V.     | 결론       |     | ․   | ․ ․      | ․     | ․    | ․   | ․    | ․   | ․   | ․   | ․ ․ | ․   | ․ ․   | ․ ․ | ․   | ․   |     | ․   | ․ ․ | ․   | ․     | ․ 42    |
+| VI.    | 참고문헌   |     |     | ․        | ․     | ․    | ․   | ․    | ․   | ․   | ․   | ․   | ․ ․ | ․ ․   | ․   | ․ ․ |     | ․   | ․   | ․ ․ | ․   | ․     | ․ 43    |
+
+## List of Figures
+
+23
+
+| Figure 1. Induction of alopecia areata on the back of C3H/HeJ mouse by full                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| thickness skin graft. ․ ․ ․ ․ ․ ․ ․ ․․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ 16                                                                          |
+| Figure 2. Hair regrowth in right side of alepecic patch, after treatment with excimer                                                              |
+| laser ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ 17                                                                             |
+| Figure 3. Histological appearance between the excimer laser treated lesion and untreated lesion. ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ 19      |
+| Figure 4. CD4 T cell infiltration between the excimer laser treated area and                                                                       |
+| Figure 5. CD8 T cell infiltration between the excimer laser treated area and                                                                       |
+| untreated area ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ 24                                                                            |
+| Figure 6. Serum cytokines before and after the excimer laser treatment ․ ․ ․ ․ 25                                                                  |
+| Figure 7. Gross photograph and phototrichogram before and after the excimer treatment in patient 1. ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․․ ․ ․ |
+| 33 8. Gross photograph and phototrichogram before and after the excimer                                                                            |
+| Figure treatment in patient 1. ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ 34                                                                  |
+
+## List of Tables
+
+32
+
+35
+
+| Table 1. Summary of gross hair regrowth and histopathologic results of                                                                              | animal model    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| study. ․ ․ ․ ․ ․ ․ ․ ․ ․․ ․ ․․ ․ ․ ․ ․ ․ ․․ ․․ ․ ․ ․ ․ ․ ․ Table 2. Changes of CD4, CD8, CD56-positive cells after the excimer laser                | ․ ․ ․ ․ ․ 21    |
+|                                                                                                                                                     | ․ ․ 22          |
+| treatment. ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ ․ Table 3. Demographic data and clinical results after the excimer laser              | treatment. ․ 32 |
+| Table 4. Comparison of the numbers of total, terminal and vellus hairs and                                                                          | hair            |
+| diameters between treated and control area. ․ ․ ․ ․ ․ ․․ ․ ․ ․ ․ ․                                                                                  | ․ ․ 35          |
+| Table 5. The change of the numbers of total, terminal and vellus hairs and hair diameters in treated area. ․ ․․ ․․ ․․ ․․․․ ․․ ․․ ․․ ․ ․ ․ ․ ․ ․ ․ ․ | ․ 36            |
+
+## 원형탈모증 동물모델 및 환자에서 308nm 엑시머레이저의
+
+## 치료 효과
+
+## (지도 교수 : 최 광 성) 인하대학교 대학원 의학과 피부과학 전공
+
+## 방 찬 일
+
+배경:  원형탈모증은  경계가  명확한  원형의  탈모반을  특징으로  하는  자가면역  질환으로 그 병태 생리는 명확히 밝혀지지 않은 상태이다. 다양한 연구를 통해 유전적, 자가 면역, 후생 유전학적 요인들이 발병에 관여하는 것으로 알려져 있으며 이 중 모낭 특이적인 T helper  1  세포  연관성  자가  면역  반응이  가장  중요한  기전으로  여겨지고  있다. 원형탈모증의 치료는 이러한 자가 면역 반응을 조절하는 것이 중요하며, 기존의 치료가 갖는 한계성 및 부작용  등으로 인하여  새로운 치료 방법이 요구되고  있다. 엑시머레이저는  다양한  염증성  피부  질환의  치료에  사용되고  있으며  원형탈모증의 새로운  치료  방법으로  대두되었다.  원형탈모증의  치료에  엑시머레이저를  사용한 보고들은 많으나 이론적 근거를 제시한 국내 연구는 아직 없다. 9
+
+목적:  본  연구자는  원형탈모증  동물모델을  이용하여  308nm  엑시머레이저를  시행한  후 조직  생검  소견  및  혈청  사이토카인을  비교  분석하였으며  10 명의  환자를  대상으로 308nm  엑시머레이저를  시행  후  사진  촬영  및  포토트리코그램  분석을  시행하여 원형탈모증에서  엑시머레이저의  치료  효과에  대한  보다  객관적인  근거를  제시하고자 하였다.
+
+방법:
+
+1.  동물  실험:  탈모가 유도된 C3H/HeJ 쥐 5 마리의 등 피부에서 최소 홍반량 (minimal erythema  dose)을  측정한  후  엑시머레이저를  탈모반의  우측에만  주  2 회,  12 주간 치료하였다.  엑시머레이저  치료  전과  12 주  후  쥐의  정맥혈을  채취하여  혈청 사이토카인을 Quantibody array kit 을 이용하여 평가하였다. 또한 조직검사를 시행하여
+
+H&amp;E,  CD4,  CD8,  CD56  염색을  시행하여  모낭  및  모낭  주변의  염증  세포의  변화를 평가하였다.
+
+2.  임상 시험: 10 명의 원형탈모증 환자를 대상으로 먼저 원형탈모반에서 최소 홍반량을 측정한  후 최소 홍반량  보다  50mJ 낮은 용량으로  병변의  우측에만  308nm 엑시머레이저로 치료하였다. 부작용이 확인되지 않으면 50mJ 씩 증량하였으며 부작용이 확인될  경우  이전  치료  용량보다  50mJ  감량하여  치료하였다.  12 주  간  주  2 회 치료하였으며  4 주  간격으로  임상사진  촬영  및  포토트리코그램  분석을  시행하였고 모발의  개수  및  굵기,  환자의  주관적  만족도,  실험자가  평가하는  모발의  재성장, 부작용을 평가하였다.
+
+## 결과:
+
+## 1.  동물 실험
+
+## 대
+
+하
+
+모발의 재성장이 4 마리 쥐 가운데 3 마리 에서 엑시머레이저를 시행한 우측 병변에서만 관찰되었다. 조직검사를 시행한 3 마리 쥐 모두 모낭 개수의 증가 및 모근 주변 림프구 침윤의 감소가 관찰되었다. 세 마리 모두에서 엑시머레이저 치료 후 혈청 사이토카인 중 IGF-1,  IL-12,  IL-13,  IL-2,  IL-4 가  감소하였고  IL-17 이  증가하였으나  통계적 유의성은 없었다. = CIVERS
+
+## 2.  임상 시험
+
+엑시머레이저 치료 후 치료부위에서 총 모발의 개수 및 연모, 굵기의 통계적으로 유의한 증가가 관찰되었다 (p=0.018, p=0.043, p=0.012). 주관적 만족도 평가상 8 명중 7 명의 환자가 치료 후 만족하였으며 객관적 모발 재성장 평가에서 역시 8 명중 7 명의 환자가 50% 이상의 발모를 보였다.
+
+결론:  308nm  엑시머레이저는  원형탈모증  동물  모델  실험상  치료  후  모낭  개수의  증가 및 모낭 주변 염증세포의 감소, IGF-1, IL-12, IL-13, IL-2, IL-4 의 감소 및 IL-17 의 증가를  유도한다.  10 명의  환자를  대상으로  한  예비임상  시험  결과  모발의  개수  및 연모의  개수  증가,  모발의  굵기  증가를  유도하였으며  향후  안전성  및  치료효과에  대한 광범위한 추가 연구가 필요하다고 생각된다.
+
+주요어: 원형탈모증, 308nm 엑시머레이저, C3H/HeJ 쥐
+
+=Abstract=
+
+## Therapeutic Effect of 308nm Excimer Laser on Alopecia Areata in Animal Model and Patient
+
+Chan Yl Bang, M.D.
+
+(Advisor: Professor, Gwang Seong Choi, M.D., Ph.D.)
+
+Department of Dermatology, College of Medicine,
+
+Inha University, Incheon, Korea
+
+## Background
+
+## 대
+
+하
+
+Alopecia areata is an autoimmune disease characterized disease by round alopecic patches with distinct margin and its pathophysiology is not fully understood. Genetic, autoimmune and epigenetic  factors  are  known  to  contribute  to  the  development  of  alopecia  areata.  Among these factors, follicle specific T helper 1 cell-mediated autoimmune reaction is considered most  important  reaction.  The  treatment  of  alopecia  areata  is  targeting  to  the  autoimmune reaction,  but  new  treatment  modality  is  being  needed  because  of  the  limitation  and complication of previous treatments. There are many case reports on 308nm excimer laser therapy for alopecia areata, however there has not been a comparative analysis in theoretical basis  yet.  Thus,  we  have  done  a  comparative  analysis  in  histopathologic  findings  and  the level of serum cytokines after 308nm excimer laser therapy by using animal model, and also we treated 10 patients of alopecia areata with excimer laser, and the results were analyzed.
+
+## Methods
+
+1.  Animal model: We measured the minimal erythema dose(MED) of back skin of  alopecia induced five-C3H/HeJ mice and had radiated the 308nm excimer laser on only right back side of  the  alopecic  patch  twice  a  week  for  12weeks.  We  took  venous  blood  samples  from the mice before and after the 12-week-laser therapy and evaluated serum cytokines level using Quantibody array kit. We also performed skin biopsy and evaluated for the number of follicles, change of perifollicular inflammatory cells using H&amp;E, CD4, CD8, CD56 stain.
+
+2. Clinical trial: We performed it to ten patients who had alopecia areata. We measured MED on alopecic patch in advance then we radiated laser to the right half of the lesion at a dose of 50mJ lower than the MED. If any adverse effect was not found, we increased the dose 50mJ higher at every week. We treated twice a week for 12 weeks and also we took photos and analyzed phothotrichogram at intervals of 4 weeks.
+
+## Results
+
+1. Animal model: The growth of hair was observed from 3 of 4 mice on the treated side. The increase  of  the  number  of  follicles  and  the  decrease  of  the  number  of  perifollicular inflammatory cells were observed from all of 3 mice through the histological finding. IGF-1, IL-12, IL-13, IL-2, IL-4 of all the 3 mice were decreased and IL-17 was increased after excimer laser treatment.
+2.  Clinical  trial:  The  number  of  total  and  vellus  hair  and  the  diameter  were  statistically significantly increased after excimer laser treatment.
+
+0 J
+
+## Conclusion
+
+In  the  animal  study,  excimer  laser  induce  the  regrowth  of  hair  by  decreasing  the  CD4+, CD8+ cell infiltrate, and also decreasing cytokines such as IGF-1, IL-12, IL-13, IL-2, IL-4. We  found  that  the  preliminary  clinical  trial  also  showed  regrowth  of  hair.  These  results showed that excimer laser has a therapeutic effect on alopecia areata, large scale of clinical trial will clarify the effects and safety of the excimer laser as a novel treatment of alopecia areata.
+
+Key words: alopecia areata, 308nm excimer laser, C3H/HeJ mice
+
+## I.  서  론
+
+## 1.  원형탈모증의 임상적 특징 및 병태생리
+
+원형탈모증은 자가 면역 질환 중 하나로, 경계가 명확한 원형의 탈모반이 발생하는 것을  특징으로  한다.  전  인구의  0.2%에서  발생하며  남,녀  발생비율은  같다.  원형 탈모증은 모발이 있는 어느 부위에도 발생할 수 있으나 90%에서 두피에 발생한다 (Alkhalifah A et al., 2010).  임상적으로 경계가 명확한 원형 또는 난원형의 표면이 매끈한  탈모반을  특징으로  하며  감탄부호  모발이  병변의  가장자리에서  관찰된다. 환자의  50%는  1 년  이내  자연  호전을  겪기도  하나,  병변의  범위가  넓을수록 예후가 좋지 않은 것으로 알려져 있다 (Alkhalifah A et al., 2010).
+
+원형탈모증의  발병에  연관된  인자로  유전적인  요인,  자가  면역  반응,  후생 유전학적 인자가 거론되고 있다. 이중 모발의 면역 회피 기전의 이상으로 인하여 T  림프구에  의해  매개되는  자가  면역  반응에  기인한  탈모가  가장  주된  병인으로 여겨지고 있다. 특히 CD4+, CD8+ T 림프구가 원형탈모증의 발생에 가장 중요한 역할을  하는  것이  동물실험을  통해  확인되었다  (McElwee  KJ  et  al.,  1998).  그 외에 NK 세포, CD4+/CD25+ T 세포도 관여하는 것으로 밝혀졌다 (Zoller M et al., 2002; Kaufman G et al., 2010).
+
+## 2.  원형탈모증의 치료
+
+원형탈모증의  치료로  다양한  방법이  제시되어  왔으며  병변  내  스테로이드  주사 요법,  국소  스테로이드  도포,  경구  스테로이드  복용,  국소  면역치료  등이 사용되어왔다.  하지만  이런  다양한  치료법에도  불구하고  어떠한  치료  방법도 완치를  유도하지  못하며  병변의  재발을  막지  못한다.  또한  자연적으로  호전되는 경우가  많으며  명백한  근거를  갖는  임상  시험이  없어서  근거  중심의  치료가 어려운 상황이다 (Alkhalifah A et al., 2010).
+
+병변  내  스테로이드  주사  요법은  병변의  개수가  적을  때  효과적으로  사용할  수 있으나 통증, 피부 위축, 혈관 확장 등의 부작용이 있다. 경구 스테로이드 복용은
+
+병변의 개수가 많은 경우 사용할 수 있으나 재발율이 높고, 골다공증, 의인성 쿠싱 증후군  등의  부작용이  발생하기에  장기간  유지하기가  어렵다.  국소  면역치료는 병변이 넓을 경우 사용할 수 있으며 모낭 주변의 림프구의 자가 사멸을 유도하는 치료 기전을 갖고 있다. 하지만 치료 중 수포성 반응, 주변부 임파선염, 다형 홍반 등의 부작용이 발생할 수 있다. 이에 최근에는 엑시머레이저를 이용한 광선 치료, 비타민 D,  생물학적 제재 등이 새로운 치료 방법으로 주목 받고 있다 (Alkhalifah A et al., 2010).
+
+## 3. 308nm 엑시머레이저
+
+엑시머레이저는 자외선을 조사하는 레이저 기기 중 하나로 1970 년 Nikolai basov 에  의하여  발명되었다  (Basov  N.G  et  al.,  1970).  피부과  영역에서는  염화제논 (XeCl)을  사용하여  발생하는  308nm  파장의  자외선을  이용한다.  기존에  사용하던 단파장 자외선 B (NB-UVB) 와 비교할 때, 308nm 엑시머레이저는 선택적 조사가 가능하며, 병변에 직각으로 조사할 수 있다는 장점을 갖는다 (Bulat V et al., 2011). 308nm  엑시머레이저는  치료  시  온기를  느끼는  것  외에  통증  등의  불편감이 없으며,  T  세포의  자가  사멸을  유도하기  때문에  다양한  염증성  피부  질환에 사용된다. 주로 건선, 백반증, 균상식육종, 아토피 피부염 등에 주로 사용되며 편평 태선이나  결절성  양진,  경피증  등에도  사용된다(Novak  Z  et al., 2002). 엑시머레이저를 이용한 원형탈모증의 치료는 2004 년 첫 보고 이후 치료의 효과 및  안전성에  대한  보고가  이어지고  있다.  18 명의  환자를  대상으로  엑시머레이저 치료를  시행하여  41.5%에서  모발의  재성장을  유도하였으며  소아  환자에서도 성공적인 치료 효과를 거두었다 (Al-Mutairi N et al., 2007, Al-Mutairi N et al., 2009). 대
+
+## 4.  연구 목적
+
+본  연구자는  원형탈모증  동물모델을  이용하여  308nm  엑시머레이저를  시행한  후 조직 생검 소견 및 혈청 사이토카인을 비교 분석하였으며 10명의 환자를 대상으로 엑시머레이저를  시행  후  사진  촬영  및  포토트리코그램  분석을  시행하여
+
+원형탈모증에서  엑시머레이저의  치료  효과에  대한  보다 객관적인  근거를 제시하고자 하였다.
+
+## II.  원형탈모증 동물모델 실험
+
+## 1.  연구 대상
+
+본  연구는  전층  피부  이식을  통하여  원형탈모증이  유도된  5 마리의  C3H/HeJ  쥐 (The  Jackson  Laboratory,  Bar  Harbor,  ME,  USA)를  대상으로  시행하였다. 원형탈모증의  유도는  46 주령의  자연적으로  탈모가  발생한  C3H/HeJ  쥐의 탈모반을 절제하여 5 마리의 C3H/HeJ 쥐의 등 피부에 전층 피부를 이식하였으며 이식술  시행  50 일  뒤  모든  쥐에서  원형탈모반이  발생하였다(Figure  1).  등의 병변을 대상으로 연구를 진행하였다. 본 연구는 인하대학교 실험동물윤리위원회의 승인을 받았다. (INHA120516-143) 대
+
+하
+
+약
+
+## 2.  연구 방법
+
+## 1) 308nm 엑시머레이저 조사 방법
+
+엑시머레이저(XTRAC Ⓡ Ultra, Photomedex, Montgomeryville, Pennsylvania, USA)는  308nm  에너지를  방출하였다.  전층  피부이식술  시행  50 일  뒤  탈모반의 발생을  확인한  다음,  5 마리  쥐의  탈모반에서  최소  홍반량  (minimal  erythema dose)  을  측정하였다.  최소  홍반량을  유도한  광량으로  유지하면서  일주일에  두 번씩 12 주간  엑시머레이저를 머리에서 꼬리를 잇는 정중선을 기준으로 우측에만 조사 하였으며 좌측에는 어떠한 처치도 시행하지 않았다.
+
+## 2)  조직학적 분석
+
+최소 홍반량 측정 전 및 엑시머레이저 조사 12 주 후에 Zoletil ™(Tiletamine  + Zolazepam)  0.008cc/10g  과  Rompun  ™(Xylazine)  0.002cc/10g  을  순차적으로 주사하여 전신 마취를 한 후 엑시머레이저 치료 부위와 치료 하지 않은 부위에서 각각  조직  검사를  시행하였다.  각  검체물들은  10%  중성  완충  포름알데히드에 고정하고,  이후  파라핀으로  포매하였다.  파라핀  포매조직은  동일한  날,  동일한 병리사에 의해서 Hematoxylin  and  Eosin(H&amp;E)  및  CD4,  CD8,  CD56 을  이용한
+
+면역형광화학  염색을  시행하였다.  이후  3 명의  병리,  피부과  의사가  3 단계  (1: 증가함,  2:변화  없음,  3:감소함)  로  평가하였으며  3 명이  평가한  값의  평균을 산출하였다.
+
+## 3)  혈액 채취 방법
+
+원형탈모증이 유도된 쥐 5 마리에서 엑시머레이저 치료 시작 직전과 3 개월 치료 후에  꼬리와  다리의  정맥  혈관에서  혈액을  채취하여  10-20μL 의  혈청을 분리하였다. 분리된 혈청을 Quantibody Ⓡ array  kit  (Raybiotech,  Inc.,  Norcross, USA)에 떨어뜨려 혈액 내 15 종류의 사이토카인 (IGF-1, GM-CSF, IFN-r, IL-10, IL-12, IL-13, IL-17, IL-1a, IL-1b, IL-2, IL-4, IL-5, SCF, TNF-a, NEG)  수치를 확인하였다.
+
+하
+
+## 대
+
+## 3.  통계 방법
+
+치료  전  후  시행한  혈액검사를  통해  얻은  사이토카인의  수치를  표본수가  적고 정규성  분포를  가정할  수  없으므로  Wilkoxon  signed  rank  test  를  통하여 검정하였다.  유의성은  0.05 를  기준으로  판단하였으며  양측검정을  하였다.  SPSS 19.0 (SPSS Science, Chicago, IL, USA)  프로그램을 사용하였다.
+
+## 4.  결과
+
+## 1)  모발 재성장의 평가
+
+12 주의  실험  기간  동안  두  마리의  쥐(1 번,  5 번  쥐)  가  사망하였다.  1 번  쥐는 6 주경,  5 번  쥐는  11 주  경  사망하여  모발  재성장의  평가에  1 번  쥐를  제외한 4 마리의  쥐가  포함되었다(Table  1). 4 마리의  쥐  중  3 마리의  쥐에서 엑시머레이저를  시행한  우측에서만  모발의  재성장이  관찰되었으며  1 마리의 쥐에서는  좌,  우  양측  모두에서  모발의  재성장이  관찰되었다(Figure  2).  치료를 시행하는  과정  중  1 마리에서  치료  부위에  인설  및  가피가  발생하는  부작용이 관찰되었다.
+
+## 2) H &amp; E  결과
+
+엑시머레이저  치료  시작  전과  후  치료군과  대조군에서  각각  조직검사를 시행하였다.  실험  중  2 마리의  쥐가  사망하여  3 마리의  쥐를  대상으로  조직학적 평가를  시행하였다.  H  &amp;  E  염색  결과,  치료  전  탈모반에는  모낭이  드물게 관찰되었으며 모근 주변으로 림프구의 침윤이 다수 관찰되었다. 엑시머레이저 치료 후  치료군  모두에서  모낭의  수적  증가  및  모근  주변  림프구  침윤의  감소가 관찰되었다.  대조군에서  시행한  조직검사  결과  1 마리에서만  모낭의  수적  증가가 관찰되었다. (Figure 3,4,5).
+
+## 3) CD4+ T 세포
+
+3 마리  쥐에서  엑시머레이저  치료  전,  후  모낭  주변의  CD4+  T 세포  변화를 관찰하였다.  치료를  시행한  우측에서  모낭  주변의  CD4+  T  림프구의  감소를 확인할  수  있었다.  반면,  좌측에는  CD4+  T  림프구의  모근  주변  침윤이  계속 관찰되었다(Figure 4). 3 명의 병리, 피부과 의사의 평가에 따르면 치료를 시행하지 않은 좌측의 경우 평균 2.3 점으로 변화가 없음으로 평가 되었으며 치료를 시행한 우측은 평균 3점으로 감소한 것으로 평가되었다(Table 2).
+
+## 4) CD8+ T 세포
+
+3 마리  쥐에서  엑시머레이저  치료  전,  후  모낭  주변의  CD8+  T 세포  변화를 관찰하였다. 엑시머레이저로 치료한 우측에서 치료 전에 비하여 CD8+ T 림프구의 모근 주변 침윤이 감소하였다(Figure 5). 3 명의 병리, 피부과 의사의 평가 결과상 치료를 시행하지 않은 좌측의 경우 평균 2.1 점으로 변화가 없었으며 우측의 경우 평균 2.9 점으로 감소한 것으로 평가되었다(Table 2).
+
+## 5) CD56+ NK 세포
+
+탈모반에서 시행한 조직검사상 모근 주변으로 CD56+ NK 세포의 존재를 확인할 수  있었다.  엑시머레이저  치료  후  대조군  및  치료군에서  CD56+  세포의  변화는 저명하지 않았다. 3 명의 평가 역시 좌측은 평균 1.4 우측은 평균 1.8 로 치료 전에 비하여 증가 또는 변화 없음으로 평가되었다(Table 2).
+
+## 6) Quantibody Ⓡ array  결과
+
+3 마리 쥐에서 치료 전 후의 사이토카인 수치를 비교하였다. Th-1 세포 및 Th-2 세포와 연관된 16 종류의 사이토카인을 Quantibody array kit 를 이용하여 수치의 변화를  측정하였다.  3  마리의  쥐  모두에서  치료  전  후  동일한  변화  양상을  보인 사이토카인은 IGF-1, IL-12, IL-13, IL-17, IL-2, IL-4 이며 IL-17 만 치료 전에 비하여  증가하였으며  나머지  사이토카인은  전부  치료  후  감소하였다.  하지만 어떠한  항목에서도  엑시머레이저  치료  후  통계적으로  유의한  변화를  보이지 않았다(Figure 6).
+
+Figure 1. Induction of alopecia areata on the back of C3H/HeJ mouse by full thickness skin graft.
+
+Alopecic patch was induced by full thichness skin graft in five C3H/HeJ mice.
+
+(A) Mouse 1; (B) Mouse 2; (C) Mouse 3; (D) Mouse 4; and (E) Mouse 5.
+
+Figure 2. Hair regrowth in right side of alepecic patch, after treatment with excimer laser
+
+After 3 months, only excimer laser treated side showed gross hair regrowth in three mice (mouse 2, 3, 5), but both side showed gross hair regrowth in mouse4.      . (A) Before treatment; (B) after 1 month; (C) after 2 month; (D) after 3 month. Mouse2:
+
+Mouse3
+
+Mouse4
+
+Mouse5
+
+Figure 3. Histological appearance between the excimer laser treated lesion and untreated lesion.
+
+After 3 months excimer laser treatment, the number of hair follicle was increased and perifollicular cellular infiltration was decreased in treated side of all mice.
+
+(H &amp; E x 40) (A) Control, before treatment; (B) Treated lesion, before treatment; (C) Control, after 3 month; (D) Treated lesion, after 3 month.
+
+Mouse2:
+
+Mouse3:
+
+Table 1. Summary of gross hair regrowth and histopathologic results of animal model study.
+
+After excimer laser treatment, gross hair regrowth on the treated area was observed in 3 out of 4 mice and the number of hair follicle was increased in all of 3 mice.
+
+|        | Gross hair regrowth on the treated area   | H&E (Increase of hair follicles)   |
+|--------|-------------------------------------------|------------------------------------|
+| Mouse1 | Not evaluated (died at 6 weeks)           |                                    |
+| Mouse2 | o                                         | o                                  |
+| Mouse3 | o                                         | o                                  |
+| Mouse4 | x                                         | o                                  |
+| Mouse5 | o                                         | Not evaluated (died at 11 weeks)   |
+
+Table 2. Changes of CD4, CD8, CD56-positive cells after the excimer laser treatment.
+
+After excimer laser treatment, 3 doctors estimated that CD4+,CD8+ T cells were decreased only in treated area and CD56+ T cells didn't show any change.
+
+|      | Mouse2   | Mouse2       | Mouse3   | Mouse3       | Mouse4   | Mouse4       |
+|------|----------|--------------|----------|--------------|----------|--------------|
+|      | Control  | Treated area | Control  | Treated area | Control  | Treated area |
+| CD4  | 2.3      | 3            | 2        | 3            | 2.6      | 3            |
+| CD8  | 2        | 2.7          | 2        | 3            | 2.3      | 3            |
+| CD56 | 1        | 2.3          | 2        | 1.3          | 1.3      | 2            |
+
+- 1, Increased; 2, No change; 3, Decreased
+
+Figure 4. CD4 T cell infiltration between the excimer laser treated area and untreated area.
+
+After excimer laser treatment, CD4+ T cells were decreased only in treated side. (x100)
+
+Mouse3:  (A)  Control,  before  treatment;  (B)  Treated  lesion,  before  treatment;  (C) Control, after 3 month; (D) Treated lesion, after 3 month.
+
+Figure 5. CD8 T cell infiltration between the excimer laser treated area and untreated area.
+
+After  excimer  laser  treatment,  CD8+  T  cells  were  decreased  in  both  treated  and control side. But CD8+ T cells were more decrease in treated area. (x100)
+
+Mouse3:  (A)  Control,  before  treatment;  (B)  Treated  lesion,  before  treatment;  (C)
+
+Control, after 3 month; (D) Treated lesion, after 3 month.
+
+Figure 6. Serum cytokines before and after the excimer laser treatment.
+
+## III.  원형탈모증 환자 임상시험
+
+## 1.  연구 대상
+
+## 1)  원형탈모증 환자
+
+본 연구는 인하대병원 피부과에 방문한 원형탈모증 환자 10 명을 대상으로 하였다. 10 명의 환자 모두 탈모반 한 곳을 정한 후 반으로 나누어 우측을 치료군, 좌측을 대조군으로  구분하였다.  치료군  및  대조군  양측  모두에  문신을  시행하여  같은 부위에서 평가가 이뤄질 수 있게 하였다. 본 연구는 인하대학교 기관윤리심의위원회의  승인을  받았다.  (IUH-IRB  11-05)  피험자  선정  및  제외 기준은 다음과 같다
+
+피험자 선정기준
+
+1) 18 ≦ 나이 ≦ 60
+
+- 2)  피험자 본인 또는 법적 대리인이 피험자 동의서에 서명한 환자
+- 3)  원형탈모증 환자
+- 4)  탈모면적이 두피의 20%이하인 환자
+- 5) 2~4cm 의 원형탈모반을 가진환자
+- 6)  임상시험 기간 동안 동일한 머리모양을 유지할 환자
+- 7)  임상시험 기간 동안 특별한 모발 용품이나 모발관리를 하지 않을 환자
+
+피험자 제외기준
+
+- 1)  내분비계질환, 면역계질환 등 탈모의 원인이 될 만한 기왕력을 가진 환자
+
+2)  최근  3 개월 이내에 호르몬 약재 등 탈모 또는 발모의 원인이 될 만한 약재를 복용 또는 도포한 과거력이 있는 환자
+
+- 3)  광  과민성 경향이 있는 환자
+- 4)  임산부나 수유중인 환자
+3. 5）모발이식술, 두피축소술 등의 탈모에 대한 외과적 처치를 받은 적이 있는 경우
+4. 6）원형탈모증 외의 원인으로 인한 탈모증을 앓고 있는 경우
+5. 7）인공심박조율기  등  인체에  금속물질을  삽입하여  임상용  의료기기  사용시 위험에 노출 될 수 있는 경우
+6. 8）다음과  같은  환자  또는  기타  병증에  대하여  임상시험  담당자가  부적당하다고 판단되는 환자
+- (1)  임신 중인 사람
+
+하
+
+대
+
+- (2)  고열 환자
+- (3)  급성 질환자
+- (4)  심장 장애가 있는 사람
+- (5)  치료 부위의 피부에 이상이 있는 사람
+- (6)  악성 종양 환자
+
+=
+
+- (7)  고혈압이 있는 분
+- (8)  감염성 질환(당뇨 등)이 있는 분
+- 9)  햇빛 알레르기가 있는 환자
+- 10)  피부암의 과거력이 있는 환자
+- 11)  최근 1 개월 간 국소 발모제 및 양모, 육모제를 도포하고 있는 환자
+- 12)  최근 1 개월 간 국소 스테로이드 제제를 두피에 도포하고 있는 환자
+- 13)  최근 1 개월 간 경구 finasteride, dutasteride 를 복용하고 있는 환자
+- 14)  심한 지루성 피부염, 두피 건선, 두피 감염이 있는 환자
+- 15)  안드로겐성  탈모증,  휴지기  칼모증,  반흔성  탈모증  등의  원형탈모증  이외의 탈모질환이 있는 환자
+
+16)  기타  위의  사항들  외의  시험  책임자의  판단으로  시험수행이  곤란하다고 판단되는 환자
+
+## 2.  연구 방법
+
+## 1)  임상 시험 방법
+
+본 연구에서 사용된 엑시머레이저(XTRAC Ⓡ Ultra, Photomedex, Montgomeryville, Pennsylvania, USA)는 308nm 에너지를 방출하였다. 선정기준에 부합되는 10 명의 원형탈모증 환자에서 2-4cm 사이의 원형탈모반 한 개를  선택하였다.  선택된  1 개의  원형탈모반을  중앙선을  중심으로  반씩  나누고 왼쪽을  대조군,  오른쪽을  실험군으로  선정하였으며  실험군인  오른쪽  절반에만 엑시머레이저를  조사하였다.  엑시머레이저는  주당  2 회  조사하며,  탈모반에서 측정된  최소  홍반량  보다  50mJ  낮은  용량으로  시작하였다.  일주일에  두  번씩  총 12 주간 엑시머레이저를 조사하였으며 4 주 간격으로 사진 촬영 및 포토트리코그램 촬영을  시행하였다.  매회  주관적  자극감  (가려움,  통증,  이상감각)  또는  객관적 자극감 (수포, 홍반, 부종) 의 발생 여부를 확인한 후 부작용이 없을 경우 50mJ 씩 증량하였다.  다수의  원형탈모반이  있는  환자에서는  아무런  치료를  하지  않으면 환자의  불안감과  스트레스로  인하여  원형탈모증이  악화되어  연구에  영향을  미칠 수  있기에  실험군,  대조군에  해당하는  원형탈모반을  제외한  부분에  표준치료인 병변  내  스테로이드  주사를  4 주  간격으로  시행하였다.  본  연구에서  사용된 엑시머레이저 기계는 식품의약품안전청의 임상시험 승인을 받았다. 대
+
+## 2)  치료효과 및 부작용의 평가
+
+엑시머레이저의 효과를 평가하기 위하여 4 주마다 임상 사진 촬영 및 folliscope (Lead  M  corp,  Seoul,  South  Korea)  를  이용하여  포토트리코그램  촬영을 시행하였다.  동일한  병변을  평가하기  위하여  치료군과  대조군을  나누는  중앙선의 중앙점을  기준으로  대칭이  되는  2  곳에  문신을  시행하였으며  포토트리코그램 촬영시  문신은  화면의  중앙에  위치하도록  하였다.  포토트리코그램  촬영  후  전체
+
+모발의  개수  및  모발의  굵기를  측정하였다.  매회  치료  시  환자의  주관적  자극감 (가려움,  통증,  이상감각)  여부  및  객관적  자극감  (수포,  홍반,  부종)  발생  여부를 의사가  문진을  통해  평가하였다.  치료가  종결된  후  환자의  주관적  만족감을 3 단계로(Excellent,  Good,  Poor)  나누어  평가하였으며  실험자가  전반적인  모발 재성장을 5 단계로 (0=no hair growth,  1=1~24%  hair  growth,  2=25~49%  hair growth,  3=50~74%  hair  growth,  4=75~99%  hair  growth,  5=complete  hair growth) 나누어 평가하였다.
+
+## 3.  통계 방법
+
+치료 전 후 시행한 포토트리코그램 촬영을 통해 얻은 모발의 개수 및 굵기를 표본수가 적고 정규성 분포를 가정할 수 없으므로 Wilkoxon signed rank test 를 통하여 검정하였다. 유의성은 0.05를 기준으로 판단하였으며 양측검정을 하였다. SPSS 19.0 (SPSS Science, Chicago, IL, USA)  프로그램을 사용하였다.
+
+## 4.  임상 시험 결과
+
+'
+
+## 1)  인구학적 자료
+
+총 10 명의 원형탈모증 환자를 대상으로 시행하였으며, 남자 4 명, 여자 6 명으로 구성되었으며 평균 연령은 38.5 세,  평균  이환기간은  45 개월  이었다.  10 명  중 2 명의  환자에서  원형탈모증의  가족력이  있었으며  동반질환은  여드름,  알레르기 비염,  십이지장궤양  등이  있었다.  총  10 명의  환자를  대상으로  원형탈모반에서 측정한 최소 홍반량은 평균 300mJ 이었으며 250mJ 에서 400mJ 까지 분포하였다. 이중  2 명의  환자가  임상시험  도중  자의에  의해  탈락하여  총  8 명이  최종까지 참가하였다(Table 3).
+
+## 2)  모발의 변화
+
+8 명의  환자에서  포토트리코그램  촬영  후  모발의  수적  변화를  3 명의  피부과 의사가  평가하였으며  최저값과  최고값을  제외한  평균값을  기준으로  비교하였다. 치료 시작 전 치료군의 총 모발의 개수는 69.38±46.07 (성모: 60.38±55.17, 연모: 9±12.66)  이었고,  대조군의  총  모발의  개수는 70.13±49.73  (성모:  62.63±57.44,
+
+연모: 7.5±10.99)  이었다. 12 주간의 엑시머레이저를 시행한 후 총 모발의 개수는 치료군이 122.63±58.96 (성모: 88.38±82.47, 연모: 87.25±72) 이었으며 대조군의 총  모발의  개수는  112.25±54.64  (성모:  87.25±72,  연모:  25±27.04)  이었다. 치료군에서  치료  전과  3 개월  후를  비교하였을  때  총  모발의  개수  및  연모의 증가가  통계적으로  유의하게  관찰되었다  (p=0.018,  p=0.043).  하지만  대조군의 모발의  개수  변화와  비교하였을  때에는  치료군의  모발  개수  증가가  통계적으로 유의하지 않았다 (p=0.793) (Table 4,5).
+
+## 3)  모발 굵기의 변화
+
+8 명의  환자에서  포토트리코그램  촬영  후  모발  굵기의  변화를  3 명의  피부과 의사가  평가하였으며  최저값과  최고값을  제외한  평균값을  기준으로  비교하였다. 모발 굵기 측정은 4 명의 피부과 의사가 동일한 모발로 합의한 3 개를 대상으로 하였다. 치료군의 치료 전 굵기는 0.0435±0.014mm, 대조군은 0.0429±0.022mm 이며  3 개월  치료  후  치료군은  0.0681±0.018mm,  대조군은  0.043±0.009mm 이었다.  치료군에서  치료  전과  후의  모발  굵기  변화를  비교하였을  때  3 개월  후 굵기  증가가  통계적으로  유의하게  관찰되었으며 (p=0.012)  이는  대조군과 비교하였을 때에도 통계적으로 유의한 증가였다 (p=0.013) (Table 4,5).
+
+## 4)  객관적 모발 재성장의 평가
+
+12 주간의  치료를  모두  마친  8 명의  환자를  대상으로 3 명의  피부과  의사가 치료받은  부위와  대조부위의  모발  성장을  비교평가  하였으며  세  명이  평가한 수치의  평균값을  계산하였다.    치료군의  점수는  최저  2 점에서  최고  5 점까지 분포하였으며  평균  3.8 점이었고  7 명의  환자가  3 점  이상  (50%  이상의  모발 재성장)으로 평가되었다(Table. 3).
+
+## 5)  주관적 만족도의 평가
+
+12 주간의  치료를  모두  마친  8 명의  환자를  대상으로  주관적인  만족도를 평가하였다. 3 명의 환자에서 Excellent, 4 명의 환자가 Good, 1 명의 환자가 Poor 로 응답하였다(Table. 3).
+
+## 6)  부작용 발생의 평가
+
+12 주간의  치료  기간  동안  1 명의  환자가  치료  부위의  따가운  증상을  호소한  것 외에  피험자가  호소하는  주관적  자극감은  없었다.    반면  실험자가  평가한  객관적 자극감은  5 명의  환자에서  홍반의  지속이  관찰되었다.  홍반은  평균  2.4 일 지속되었으며 3일간 지속되는 환자가 3명으로 가장 많았다(Table. 3).
+
+Table 3. Demographic data and clinical results of 10 patients
+
+|   Subject number | Sex   |   Age | Family Hx   | Disease duration   | Comorbities   |   MED (mJ) |   Total dose (mJ) |   Last dose (mJ) |   Session | Side effect          | Hair regrowth assessment by patients   | Hair regrowth assessment by physician   | Etc   |
+|------------------|-------|-------|-------------|--------------------|---------------|------------|-------------------|------------------|-----------|----------------------|----------------------------------------|-----------------------------------------|-------|
+|                1 | M     |    19 | -           | 9 years            | acne          |        300 |             11350 |              900 |        22 | erythema, irritation | Excellent                              | 4                                       |       |
+|                2 | F     |    51 | +           | 24 months          | AR            |        300 |             10100 |              800 |        18 | -                    | Good                                   | 2.6                                     |       |
+|                3 | M     |    38 | +           | 32 months          | -             |        300 |             17000 |             1200 |        23 | -                    | Excellent                              | 4                                       |       |
+|                4 | F     |    32 | -           | 5 years            | -             |        250 |              4650 |              200 |        23 | erythema 3 days      | Good                                   | 4.6                                     |       |
+|                5 | M     |    51 | -           | 7 years            | syphilis      |        300 |             16250 |              850 |        24 | erythema 3 days      | Poor                                   | 3.6                                     |       |
+|                6 | F     |    50 | -           | 36 months          | -             |        300 |             15150 |              800 |        23 | erythema 3 days      | Good                                   | 3.6                                     |       |
+|                7 | F     |    52 | -           | 24 months          | DE            |        300 |              1650 |              200 |         7 | erythema 2 days      | -                                      | -                                       | DO    |
+|                8 | F     |    26 | -           | 6 years            | PU            |        300 |             13570 |              700 |        24 | -                    | Good                                   | 4                                       |       |
+|                9 | M     |    26 | -           | 7 months           | -             |        250 |               200 |              200 |         1 | -                    | -                                      | -                                       | DO    |
+|               10 | F     |    39 | -           | 10 months          | -             |        400 |             16350 |             1050 |        24 | -                    | Good                                   | 4                                       |       |
+
+MED, minimal erythema dose; AR, allergic rhinitis; PU, peptic ulcer; DE, Drug eruption; DO, Drop out
+
+Hair regrowth: 0=no hair growth, 1=1~24% hair growth, 2=25~49% hair growth, 3=50~74% hair growth, 4=75~99% hair growth, 5=complete hair growth
+
+Figure 7. Gross photograph and phototrichogram before and after the excimer
+
+treatment in patient 1
+
+(A) Before treatment; (B) After 12 weeks of treatment;
+
+(C&amp;D) Phototrichogram of control (C) and treated area (D) before excimer treatment;
+
+(E&amp;F) Phototrichogram of control (E) and treated area (F) after excimer treatment
+
+Figure 8. Gross photograph and phototrichogram before and after the excimer treatment in patient 7
+
+(A) Before treatment; (B) After 12 weeks of treatment;
+
+(C&amp;D) Phototrichogram of control (C) and treated area (D) before excimer treatment;
+
+(E&amp;F) Phototrichogram of control (E) and treated area (F) after excimer treatment
+
+A
+
+Table 4. Comparison of the numbers of total, terminal and vellus hairs and hair diameters between treated and control area.
+
+|    |       |                    | Control   | Control            |
+|----|-------|--------------------|-----------|--------------------|
+|    | Mean  | Standard deviation | Mean      | Standard deviation |
+| T0 | 60.38 | 55.17              | 62.63     | 57.44              |
+| T1 | 76.13 | 76.8               | 89.5      | 81.41              |
+
+| T2   |       84 |   79.11 |    82.88 |   74.06 |
+|------|----------|---------|----------|---------|
+| T3   |  88.38   | 82.47   |  87.25   | 72      |
+| V0   |   9      | 12.66   |   7.5    | 10.99   |
+| V1   |  17.88   | 26.76   |  18.75   | 25.99   |
+| V2   |  21.5    | 27.42   |  20.25   | 23.45   |
+| V3   |  34.25   | 34.48   |  25      | 27.04   |
+| TV0  |  69.38   | 46.07   |  70.13   | 49.73   |
+| TV1  |  94      | 62.45   | 108.25   | 65.13   |
+| TV2  | 105.5    | 61.14   | 103.13   | 58.3    |
+| TV3  | 122.63   | 58.96   | 112.25   | 54.64   |
+| D0   |   0.0435 |  0.0144 |   0.0429 |  0.0223 |
+| D1   |   0.0554 |  0.0179 |   0.0443 |  0.0152 |
+| D2   |   0.0543 |  0.0184 |   0.0489 |  0.0189 |
+| D3   |   0.0681 |  0.0186 |   0.043  |  0.0096 |
+
+- T, Terminal hair; V, Vellus hair; D, Diameter
+- 0, Initial; 1, 1month later; 2, 2months later; 3, 3months later
+
+Table 5. The change of the numbers of total, terminal and vellus hairs and hair diameters in treated area.
+
+|    | Initial      | 3months       | difference     |   p-value |
+|----|--------------|---------------|----------------|-----------|
+| T  | 60.38±55.17  | 88.38±82.47   | -28±41.27      |     0.123 |
+| V  | 9±12.66      | 34.25±34.48   | -25.25±28.53   |     0.043 |
+| TV | 69.38±46.07  | 122.63±58.96  | -53.25±36.88   |     0.018 |
+| D  | 0.0435±0.014 | 0.0681±0.0186 | -0.0246±0.0148 |     0.012 |
+
+T, Terminal hair; V, Vellus hair; D, Diameter
+
+## IV.  고  찰
+
+T  림프구는 원형탈모증의 유지 및 모낭의 파괴 정도에 관여하는 것으로 알려져 있다. 그렇기 때문에 원형탈모증에서 CD4+ T 림프구와 CD8+ T 림프구 모두가 고갈된 경우 모발의  재성장이  일어난다.  하지만  두  세포가  원형탈모증  발병에  있어  동등한  비중을 갖는  것은  아니다.  두  세포가  모두  고갈된  동물  모델에서  CD4+  T  세포만을  주입한 경우 모발의 소실은 거의 일어나지 않았으나 CD8+ T 세포만을 주입한 경우 국소적인 모발의  소실이  유도되었다(Tsuboi  H  et  al.,  1999).  즉  이를  통하여  CD8+  T  세포가 원형탈모증  발생에  있어  가장  중요한  역할을  하며  CD4+  T  세포는  CD8+  T 세포가 작용을  시작할  수  있게  하는  역할을  하는  것이  밝혀졌다.  이전의  연구에  따르면 C3H/HeJ 쥐에 FK506 을 국소 도포한 실험에서 치료 후 모낭 주변 및 모낭 내의 CD4+, CD8+  T  세포의  침윤이  감소되는  것이  밝혀졌으며  이는  FK506 에  의하여  IL-2 의 생성이 감소해서 T 세포 매개 면역 반응이 억제되기 때문이라 밝혀졌다(McElwee KJ., 1997).  본  연구에서도  엑시머레이저  치료  후 조직검사를  시행한  3 마리  쥐에서 CD4+, CD8+ T 세포의 침윤이 감소하였으며 혈액 검사를 시행한 3 마리 쥐 모두에서 IL-2 의 수치가 감소하였다.
+
+NK  세포는  최근  들어  원형탈모증  병인의  중요한  인자로  생각되어져  왔으며,  혈액 내의 증가와 원형탈모증의 발병간의 연관성을 제시하는 보고가 있었다. (Imai R et al., 1990) NK 세포는 정상적으로 모낭 주변에 존재하지 않기에 병변에 CD 56+ NK 세포가 병변에서  관찰되는  것은  NK  세포가  동반된  T  세포  매개성  세포  독성  반응이  원형 탈모증의 발병에 관여함을 설명한다(Christoph T et al., 2000). 하지만 원형탈모증에서 NK  세포에  대한  연구가  많지  않아  NK  세포의  역할은  아직까지  의견이  분분하다.  NK 세포를  없앤  원형탈모증  동물  모델에서  CD49b+T  세포가  증가하면서  원형탈모증이 가속화 되는 결과가 있는 반면, NK 세포의 결핍을 유도하여 자가 면역 질환의 증상이
+
+호전되는 보고도 있기 때문이다(Kaufman G et al., 2010). 본 연구에서는 탈모반의 모낭 주변으로  CD56+  NK  세포가  관찰되었다.  하지만  엑시머레이저  치료  전,  후  및  치료 유무에  따른  CD56+  NK  세포의  변화는  저명하게  관찰되지  않았다.  건선  병변을 대상으로  한  연구에  따르면  자외선 B  는  NK  세포에  영향을  미치지  못한다는  보고가 있다.  이와  같은  결과를  볼  때  NK  세포가  탈모의  발생에  관여를  하나  엑시머레이저 치료의  대상은  아닐  것으로  생각이  되며  이에  대한  추가적인  연구가  필요할  것으로 생각된다.
+
+원형탈모증의  발생에는  T  세포와  연관된  여러가지  사이토카인이  관여하는  것으로 알려져 있다.   T helper 1 세포와 연관된 사이토카인으로 INF-γ, TNF-β, IL-1, IL-2, IL-12 가 있으며 T helper 2 세포와 연관된 사이토카인으로 IL-4, IL-5, IL-10, IL-13, T  helper  17  세포와  연관된  사이토카인으로 IL-6, IL-17, regulatory T 세포와 연관된 사이토카인으로 TGF-β, IL-10 이 있다. 이 중 T helper 1 세포와 연관된 사이토카인이 원형탈모증의 자가면역반응에 중요한 역할을 하는 것으로 알려져 있다. IL-1 은 모발의 성장을  중단하고,  모발의  정상  순환  과정을  조기에  종료시켜서  원형탈모증의  중요한 유발 인자로 알려져 있다(Gregorius S et al.,  2010).  또한  INF-γ  는 T  helper  1  세포 반응을  시작시키는  사이토카인으로  알려져  있으며  원형탈모증의  중증도와는  상관없이 IL-2,  IL-12,  INF-γ  가  원형탈모증  환자들에서  대조군에  비해  상승되어  있다는 보고도 있다(Barahmani N et al.,  2010).  본  연구에서  치료  전  후의  사이토카인을 비교한 결과 통계적으로  유의하진  않지만  IL-2,  IL-12 가  3 마리  모두에서  엑시머레이저  치료  후 감소하였다. IL-2의 결핍이 있는 경우 T 세포의 생산, 성장, 분화가 일어나지 못해 모낭 주변의  림프구  감소로  인하여  원형탈모증의  발생이  억제되며  IL-12 는  T  helper  1 세포로의 분화를 유도하고 INF-γ 의 생성, 세포 독성 T 세포의 활동을 촉진하는 역할을 한다  (Freyschmidt-paul  P  et  al.,  2005).  이를  통하여  볼  때  엑시머레이저  치료가  T '
+
+helper  1  세포와  연관된  사이토카인의  생성을  억제시켜서  모낭에  대한  조직  특이적인 자가 면역반응을 억제할 것으로 유추해볼 수 있다.
+
+IL-4 는 국소적인 원형탈모증 환자에서 더 높게 관찰되며 IL-13 역시 대조군에 비하여 환자군에서  높은 수치를 보이며 활성 병변의 발생에 연관이 있다는 보고가 있다(Tembhre  MK.,  2013).  반면  IL-13 이  대조군에  비하여  유의한  차이를  나타내지 않으며  아토피와의  연관성도  나타내지  않는  다는  상반된  연구  결과도  있다(Barahmani et  al.,  2010).  IL-10 은 IL-4 와  함께  항염작용을 하는 사이토카인으로 알려져 있으며 Th1  사이토카인  생산  억제에  중요한  역할을  하기에 Th1  사이토카인이  이들에  비해 과도할 경우 원형탈모증 병변이 지속되는 것으로 알려져 있다(Bodemer C et al., 2000). 본  연구에서는  엑시머레이저  치료  후  IL-4  와  IL-13 의  감소가  관찰되었으나  IL10 역시  감소하였다.  IL-4 와  IL-13 의  변화는  Th2  사이토카인  역시  원형탈모증의 발생에  관여한다는  주장을  뒷받침하나  IL-10 의  감소는  이전의  보고와는  상반되는 결과이다. 아직까지 Th2 사이토카인의 원형탈모증 발생에 대한 역할은 확증적인 연구가 없기에 이에 대한 추가적인 연구가 필요할 것으로 생각된다.
+
+Regulatory  T  세포와  연관된  사이토카인인  IL-17 는  건선  등의  다양한  자가  면역 질환의 발생에 관여하는 것으로 알려져있다. 최근 IL-17 과 원형탈모증에 대한 연구에 따르면 활동적인 원형탈모증에서 혈청 내 IL-17 이 상승해 있으며 병변의 개수나 이환 기간과는 연관성이 없음이 밝혀졌다(Tembhre MK., 2013). IL-17 이 원형탈모증의 유도 및 활성화에 관여하며 모낭에 특이적인 염증 반응 유도에 관여하는 점에서 엑시머레이저 치료  후  IL-17 의  감소는  병변의  활성화를  막고  모낭에  대한  자가  면역  반응을 저해했을 것으로 보인다.
+
+엑시머레이저는  단색의  자외선  B  를  높은  에너지로  조사하는  기기로서  기존 광선요법의  제한점을  극복하기  위하여  제안되었다.  엑시머레이저는  표적  광선  요법의 개념을 갖기에 비병변부에 조사되는 자외선의 양을 줄이고 짧은 기간 내에 더 적은 누적
+
+광량으로 치료효과를 얻을 수 있다(Kim et al.,  2006).  엑시머레이저가  원형탈모증에서 모발의  재성장을  유도하는  기전은  명확히  밝혀지진  않았으나  T  세포의  자가사멸을 유도하거나 수용성 매개체를 통하여 면역조절작용을 할 것으로 여겨진다(Al-Mutairi N., 2007). UVB 조사는 IL-4, IL-10, prostaglandin E2, platelet activating factor, histamine and  cis  urocanic  acid  등의  가용성  매개체를  통해서  면역  반응을  바꾼다(Ullrich  SE., 2005).  또한  UVB 에  조사된  쥐의  림프절에서  유래한  T  세포는  INF-γ의  생성과  세포 독성이  저하되는  것으로  알려져  있다(Garssen  J  et  al.,  1999).  본  연구에서도 엑시머레이저  치료를  시행한  후  혈청  내  IL-2,  IL-4,  IL-12,  IL-13 의  감소가 관찰되었으며 조직학적으로 CD4+ T 세포와 CD8+ T 세포의 수적 감소 및 모낭 개수의 증가가  확인되었다.  엑시머레이저의  파장이  염증  세포들이  작용하는  모근  주변의  심부 진피에 도달하기 어렵다는 점에 미루어 볼 때 여러 가용성 매개체를 통해 T 세포 매개 자가 면역 반응을 억제했을 것으로 추측되나 엑시머레이저가 어떤 기전으로 하부 진피에 위치한 모낭 주변의 T 세포에 영향을 미치는지에 대한 추가적인 연구가 필요할 것으로 생각된다.
+
+원형탈모증은  조직  특이적인  자가면역  질환의  하나로  여러가지  치료  방법들이 제시되어왔다.  기존의  치료  방법들은  피부  위축,  혈관  신생성,  수포양  반응  등의 한계점을 가지고 있으며 이러한 치료에 효과가 없는 환자들도 있기에 최근 엑시머레이저가 새로운 치료 대안으로 제시되고 있다. 원형탈모증에 대한 광선치료 임상 시험은 다양한 정도의 성공을 보였으며 소아나 두피의 반상 병변에 효과적이고 안전한 치료  방법임이  보고되었다(Al-Mutairi  N.,  2009).  이는  앞에서  언급한  바와  같이 광선치료가 국소적인 T 세포 매개 염증 반응을 억제하기 때문으로 생각된다. 10 명의 원형탈모증  환자를  대상으로  시행한  임상시험에서  308nm 엑시머레이저를  이용하여 12 주간의 치료 후 총 모발의 개수 및 연모의 개수 증가 및 굵기의 증가를 확인하였으며 이러한 치료 효과를 얻기 위해서는 최소 3개월의 치료가 필요함을 확인하였다.
+
+엑시머레이저 조사에 따른 부작용으로 화상, 홍반의 지속, 따가움 등이 제시되었으나 본  연구에서는  평균  2.4 일간  지속되는  홍반과  1 명에서  보고된  따가운  증상  외에 10 명의  환자에서  부작용은  발생하지  않았다.  즉  원형탈모증에서  엑시머레이저  치료는 기존 치료에 대한 훌륭한 대안으로 여겨진다.
+
+본  연구는  예비연구로서  실험군의  수가  적다는  한계점을  가지고  있다.  하지만 대상자가 환자군이면서 동시에 치료군이기 때문에 치료 결과에 영향을 줄 수 있는 생활 스트레스  또는  식습관,  유전적  감수성  등의  차이를  보정할  수  있다는  장점을  가지고 있다.  추후  원형탈모증 환자를 대상으로 한 코호트 연구나 엑시머레이저가 모낭 주변의 T  세포에  어떤  방법으로  영향을  끼치는지에  대한  추가적인  연구가  필요할  것으로 생각된다. 대 하
+
+## V. 결 론
+
+본  연구는  308nm  엑시머레이저가  원형탈모증에  갖는  치료  효과를  확인하기  위하여 동물 실험 및 임상 시험을 시행하였다. 동물 실험 결과에서 육안적 평가상 4 마리 쥐 중 3 마리에서 모발의 재성장이 관찰되었으며 조직검사상 3 마리 쥐 모두에서 모낭 개수의 증가 및 모낭 주변 염증세포 침윤의 감소가 관찰되었다. 사이토카인은 치료 후 세 마리 모두에서  IGF-1,  IL-12,  IL-13,  IL-2,  IL-4 가  감소하였고  IL-17 이  증가하였다. 원형탈모증 환자를 대상으로 한 임상시험 결과 엑시머레이저 치료 부위에서 총 모발의 개수  및  연모의  개수,  모발의  굵기가  통계적으로  유의하게  증가하였으나  대조군과 비교시 굵기만 유의하게 증가하였다.
+
+본 연구는 원형탈모증에서 엑시머레이저의 치료 효과를 알아보기 위하여 병변을 반으로 나누어  비교한  최초의  예비  연구이며,  본  연구의  결과는  원형탈모증의  치료에  있어서 대
+
+엑시머레이저 적용에 대한 과학적 근거를 제공할 것으로 생각된다.
+
+## 참 고 문 헌
+
+- 1) Alkhalifah A, Alsantali A, Wang E, McElwee KJ, Shapiro J. Alopecia areata update: part I. Clinical picture, histopathology, and pathogenesis. J Am Acad Dermatol. 2010 Feb(2);62:177-88
+- 2) Alkhalifah A, Alsantali A, Wang E, McElwee KJ, Shapiro J. Alopecia areata update: part II. Treatment. J Am Acad Dermatol. 2010 Feb;62(2):191-202
+- 3)  McElwee  KJ,  Boggess  D,  King  LE  Jr,  Sundberg  JP.  Experimental  induction  of alopecia  areata-like  hair  loss  in  C3H/HeJ  mice  using  full-thickness  skin  grafts.  J Invest Dermatol. 1998 Nov;111(5):797-803.
+- 4)  Zöller  M,  McElwee  KJ,  Engel  P,  Hoffmann  R.  Transient  CD44  variant  isoform expression  and  reduction  in  CD4(+)/CD25(+)  regulatory  T  cells  in  C3H/HeJ  mice with alopecia areata. J Invest Dermatol. 2002 Jun;118(6):983-92.
+- 5) Kaufman G, d'Ovidio R, Kaldawy A, Assy B, Ullmann Y, Etzioni A, Paus R, Gilhar A. An unexpected twist in alopecia areata pathogenesis: are NK cells protective and CD49b+ T cells pathogenic? Exp Dermatol. 2010 Aug;19(8):e347-9.
+- 6)  Zhang  X,  Yu  M,  Yu  W,  Weinberg  J,  Shapiro  J,  McElwee  KJ.  Development  of alopecia  areata  is  associated  with  higher  central  and  peripheral  hypothalamicpituitary-adrenal  tone  in  the  skin  graft  induced  C3H/HeJ  mouse  model.  J  Invest Dermatol. 2009 Jun;129(6):1527-38.
+- 7)  Bulat  V,  Situm  M,  Dediol  I,  Ljubicić  I,  Bradić  L.  The  mechanisms  of  action  of phototherapy in the treatment of the most common dermatoses. Coll Antropol. 2011 Sep;35 Suppl 2:147-51.
+- 8) Basov, N. G. et al., Zh. Eksp. Fiz. i Tekh. Pis'ma. Red. 12, 473(1970)
+- 9) Novák Z, Bónis B, Baltás E, Ocsovszki I, Ignácz F, Dobozy A, Kemény L. Xenon chloride ultraviolet B laser is more effective in treating psoriasis and in inducing T cell  apoptosis  than  narrow-band  ultraviolet  B. J  Photochem  Photobiol  B.  2002 May;67(1):32-8.
+
+10) Cetin ED, Savk E, Uslu M, Eskin M, Karul A. Investigation of the inflammatory mechanisms in alopecia areata. Am J Dermatopathol. 2009 Feb;31(1):53-60
+
+- 11)  Barahmani  N,  Lopez  A,  Babu  D,  Hernandez  M,  Donley  SE,  Duvic  M.  Serum  T helper 1 cytokine levels are greater in patients with alopecia areata regardless of severity or atopy. Clin Exp Dermatol. 2010 Jun;35(4):409-16
+- 12) Rossi A, Cantisani C, Carlesimo M, Scarnò M, Scali E, Mari E, Garelli V, Maxia C, Calvieri S. Serum concentrations of IL-2, IL-6, IL-12 and TNF-α in patients with alopecia areata. Int J Immunopathol Pharmacol. 2012 Jul-Sep;25(3):781-8
+- 13) Peters EM, Arck PC, Paus R. Hair growth inhibition by psychoemotional stress: a mouse  model  for  neural  mechanisms  in  hair  growth  control.  Exp  Dermatol.  2006 Jan;15(1):1-13.
+- 14) Arck PC, Handjiski B, Peters EM, Peter AS, Hagen E, Fischer A, Klapp BF, Paus R. Stress inhibits hair growth in mice by induction of premature catagen development and  deleterious  perifollicular  inflammatory  events  via  neuropeptide  substance  Pdependent pathways. Am J Pathol. 2003 Mar;162(3):803-14. o
+
+15) Peters EM, Liotiri S, Bodó E, Hagen E, Bíró T, Arck PC, Paus R. Probing the effects  of  stress  mediators  on  the  human  hair  follicle:  substance  P  holds  central position. Am J Pathol. 2007 Dec;171(6):1872-86.
+
+16)  Hunter  N,  Shaker  O,  Marei  N.  Diphencyprone  and  topical  tacrolimus  as  two topical immunotherapeutic modalities. Are they effective in the treatment of alopecia areata among Egyptian patients? A study using CD4, CD8 and MHC II as markers. J Dermatolog Treat. 2011 Feb;22(1):2-10
+
+- 17)  Siebenhaar  F,  Sharov  AA,  Peters  EM,  Sharova  TY,  Syska  W,  Mardaryev  AN, Freyschmidt-Paul  P,  Sundberg  JP,  Maurer  M,  Botchkarev  VA.  Substance  P  as  an immunomodulatory  neuropeptide  in  a  mouse  model  for  autoimmune  hair  loss (alopecia areata). J Invest Dermatol. 2007 Jun;127(6):1489-97
+- 18) Freyschmidt-Paul P, McElwee KJ, Hoffmann R, Sundberg JP, Kissling S, Hummel S, Vitacolonna M, Kopp-Schneider A, Zöller M. Reduced expression of interleukin-2 decreases the frequency of alopecia areata onset in C3H/HeJ mice. J Invest Dermatol. 2005 Nov;125(5):945-51.
+
+- 19)  Hoffmann  R  The  potential  role  of  cytokines  and  T  cells  in  alopecia  areata.  J Investig Dermatol Symp Proc. 1999 Dec;4(3):235-8
+- 20)  Al-Mutairi  N.  308-nm  excimer  laser  for  the  treatment  of  alopecia  areata  in children. Pediatr Dermatol. 2009 Sep-Oct;26(5):547-50
+
+21)  Zakaria  W,  Passeron  T,  Ostovari  N,  Lacour  JP,  Ortonne  JP.  308-nm  excimer laser therapy in alopecia areata. J Am Acad Dermatol. 2004 Nov;51(5):837-8 22)  Al-Mutairi  N.  308-nm  excimer  laser  for  the  treatment  of  alopecia  areata. Dermatol Surg. 2007 Dec;33(12):1483-7.
+
+23)  Ohtsuki  A,  Hasegawa  T,  Ikeda  S.  Treatment  of  alopecia  areata  with  308-nm excimer lamp. J Dermatol. 2010 Dec;37(12):1032-5
+
+24) Tsuboi H, Tanei R, Fujimura T, et al. Characterization of infiltrating T cells in human scalp explants from alopecia areata to SCIT nude mice: possible role of the disappearance of CD8+ T lymphocytes in the process of hair regrowth. J Dermatol. 1999;26:797-802.
+
+25) Gilhar A, Landau M, Assy B, et al. Mediation of alopecia areata by cooperation between CD4+ and CD8+ T lymphocytes: transfer to human scalp explants on Prkdc(scid) mice. Arch Dermatol. 2002;138:916-922.
+
+26) Imai R. Significance of HLA-DR+ T cells and natural killer (NK) cells in the peripheral blood lymphocytes of alopecia areata (AA). Nippon Hifuka Gakkai Zasshi. 1990;100:1143-1152.
+
+27) Christoph T, Muller-Rover S, Audring H, et al. The human hair follicle immune system: cellular composition and immune privilege. Br J Dermatol. 2000;142:862873

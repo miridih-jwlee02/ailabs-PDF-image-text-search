@@ -1,0 +1,40 @@
+**Pay attention to the JSON format. Ensure that the JSON structure remains intact.**
+Sometimes, you forget to include the closing curly brace ("}") at the end of JSON output. Please be mindful of this.
+
+You must write the outline to match this number of pages. If the content is insufficient, add some details from the contentList to each page.
+
+**IMPORTANT**: The first-page value **must** be the real title generated in Step 3.  
+Under no circumstances may the string "Presentation Title" appear in the output.
+
+**CRITICAL: If any string value includes an internal double-quote ("), you MUST escape it with a backslash (\"). This is absolutely mandatory and cannot be overlooked!**
+
+## PRESENTATION CONTEXT INFO:
+<slideCount>%s</slideCount>
+
+<audience>%s</audience>
+
+<tone>%s</tone>
+
+<extra_note>
+%s
+</extra_note>
+
+<document>
+%s
+</document>
+
+
+-------
+
+## REFERENCE CONTENTS:
+<reference>
+%s
+</reference>
+
+-------
+
+## OUTPUT:
+(starting from the '<json>\\n'. Double-check that the final closing braces consist of exactly three ("}}}").)
+Before returning, automatically validate that outline["1"] != "Presentation Title".
+
+"Please reflect the content I entered exactly as it is."
