@@ -96,9 +96,11 @@ python process_txt.py
 
 ```bash
 # 버전 6 사용
+# 버전 6는 버전5와 동일한 모델이지만, 프롬프트에 (이미지 + 이미지가 들어있던 페이지의 텍스트)가 아닌, 이미지만 보고 Description을 생성. (비용 절감을 위한 실험)
 python with_text_search_ver6.py
 
 # 또는 버전 5 사용
+# 최종 사용하기로 결정된 버전의 코드. (아래 주석처리한 버전의 코드를 이용하면 GPT-5버전도 실험 가능.)
 python with_text_search_ver5.py
 ```
 

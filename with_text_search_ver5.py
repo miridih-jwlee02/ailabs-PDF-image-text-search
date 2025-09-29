@@ -243,9 +243,8 @@ def wb_log_csv(run, res_q, descs, tag):
         tb.add_data(*row)
     wandb.log({"text_to_image": tb}); wandb.finish()
 
-# ======================
+
 # page_text 읽기 / GPT 생성
-# ======================
 def read_page_text_for_image(img_path: Path, folder: Path) -> str:
     page = next((seg[4:] for seg in img_path.stem.split("_") if seg.startswith("page")), None)
     if not page: return ""
@@ -270,6 +269,7 @@ def _encode_image_to_b64(path: Path) -> str:
         buf = BytesIO(); im.save(buf, format="JPEG", quality=90)
     return b64encode(buf.getvalue()).decode()
 
+
 # 간단 재시도 래퍼 (지수 백오프 + 약간의 지터)
 def _retry(fn, *, retries=3, base_delay=0.8):
     for i in range(retries):
@@ -282,14 +282,15 @@ def _retry(fn, *, retries=3, base_delay=0.8):
             print(f"[WARN] API call failed (attempt {i+1}/{retries}): {e}; retry in {sleep_s:.1f}s")
             time.sleep(sleep_s)
 
+
 def describe_image_with_context(args):
     path, page_text = args
     b64 = _encode_image_to_b64(path)
     def _do():
         return _client().chat.completions.create(
-            model="gpt-4.1-mini", temperature=TEMPERATURE, max_tokens=300,
+            model="gpt-4o", temperature=TEMPERATURE, max_tokens=300, 
             messages=_build_messages(b64, page_text),
-        )
+        ) # model은 gpt-4.1-mini로 변경해서 실험 가능
     try:
         rsp = _retry(_do)
         desc = rsp.choices[0].message.content.strip()
@@ -551,7 +552,7 @@ if __name__ == "__main__":
 
 
 '''
-GPT-5 버전
+GPT-5 버전 실행 (https://miridih.atlassian.net/wiki/spaces/~712020c4a8435f9991491d970b32b8a680aad5/pages/1262747711/4.+R+D -> 해당 위키파일 참고)
 '''
 # import os, time, shutil, json, random, imagehash, pandas as pd, torch, wandb, matplotlib.pyplot as plt
 # from typing import List, Tuple, Dict
